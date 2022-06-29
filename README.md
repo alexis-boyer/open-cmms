@@ -9,4 +9,4 @@ It's to learn Laravel and Angular with a simple, yet beautiful, web app. Futherm
 
 ## Why is it all in (bad written) English ?
 
-Because i'm trying to improve my english, but don't worry my french is even worth :smile:
+Because i'm trying to improve my english, but don't worry my french is even worse :smile:
