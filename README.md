@@ -6,7 +6,3 @@ The purpose of this app is to allow people managing a lot of different building 
 ## Real purpose of the application
 
 It's to learn Laravel and Angular with a simple, yet beautiful, web app. Futhermore it should also implement a swagger documentation and an OAuth ( or JWT if I fail OAuth )
-
-## Why is it all in (bad written) English ?
-
-Because i'm trying to improve my english, but don't worry my french is even worse :smile:
